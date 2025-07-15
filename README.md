@@ -1,1 +1,1 @@
-# ScorpiiGamesWeb
+# ScorpiiGames
